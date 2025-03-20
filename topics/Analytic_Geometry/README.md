@@ -88,14 +88,24 @@ Ve $\tan\alpha$ özelliğinden dolayı DİK açıların eğimi yoktur.
 
 ## $\text{Doğru Denklemi Yazma}$
 
-### $\text{Genel Form}$
-$$ax + by + c = 0$$
+Dogrunun denklemini yazmak icin iki sey bilmemiz lazim
 
-### $\text{Eğim-Kesişim Formu}$
-$$y = mx + n$$
+1- dogrunun egimi = m
+2- dogrunun gectigi bir nokta (x0, y0)
 
-### $\text{Nokta-Eğim Formu}$
-$$y - y_1 = m(x - x_1)$$
+y - y0 = m * (x - x0)
 
-### $\text{İki Nokta Formu}$
-$$\frac{y - y_1}{y_2 - y_1} = \frac{x - x_1}{x_2 - x_1}$$
+dogrunun eksenleri kestigi noktalari biliyorsan kisa yoldan onun denklemini yazabilirsin
+
+x/x'ikestiginokta + y/y'yikestiginokta = 1
+
+3 nokta dogrusal mi bilmek istiyorsan
+
+a , b , c olmak uzere 3 nokta olsun
+
+|ab| ni egimi |bc| nin egimine esitse dogrusaldir
+
+dogrularin kesime noktalarini bulmak icin iki dogrunun da denklemlerini bulman gerekiyor
+
+y = a1x + b1
+
